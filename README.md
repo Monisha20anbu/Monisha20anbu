@@ -29,7 +29,6 @@ I'm building practical AWS projects to demonstrate my cloud engineering skills.
 
 | Project                          | AWS Services                    | Status         |
 | -------------------------------- | ------------------------------- | -------------- |
-| Highly Available Web Application | EC2, ALB, Auto Scaling          | 🚧 In Progress |
 | Secure VPC Architecture          | VPC, Subnets, Route Tables, NAT | 📌 Planned     |
 | Static Website Hosting           | S3, CloudFront                  | 📌 Planned     |
 | Serverless Application           | Lambda, API Gateway             | 📌 Planned     |
